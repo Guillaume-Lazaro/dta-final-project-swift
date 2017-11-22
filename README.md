@@ -6,7 +6,7 @@ Our final project in Swift 4.
 
 ## Team
 Done in a team of 4 developers :  
-[Thomas GOUDOUNEIX](https://github.com/Nilmanduil)  
+[Thibault GOUDOUNEIX](https://github.com/Nilmanduil)  
 [Maxime REVEL](https://github.com/Cocatrix)  
 [Arnaud RINGENBACH](https://github.com/newatox)  
 [Nicolas VERGOZ](https://github.com/nicolasvergoz)  
